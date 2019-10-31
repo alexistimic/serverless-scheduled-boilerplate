@@ -1,0 +1,14 @@
+{
+    "name": "serverless",
+    "version": "1.55.1",
+    "description": "a simple web server that lints json strings",
+    "engines": {
+        "node": ">=4.3"
+    },
+    "scripts": {
+        "start": "serverless deploy -v"
+    },
+    "dependencies": {
+        "serverless": "~1.55.1"
+    }
+}
